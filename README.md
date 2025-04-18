@@ -1,8 +1,5 @@
 # Market Scoring Simulation Tool
 
-**Developed by**: Saad Shabbir and Cam Heitkamp  
-**Course**: Machine Learning for Business Analysts with Professor Tom Mattson
-
 ## Project Overview
 
 This Python script is an interactive simulation tool that helps analysts evaluate potential international markets for expansion. By integrating user-driven simulations and statistical modeling, the program analyzes market viability across 30 countries based on various macroeconomic and risk-based indicators.
